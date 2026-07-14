@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/vips725/LEETCODE/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vips725/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/vips725/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/vips725/LEETCODE/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vips725/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
