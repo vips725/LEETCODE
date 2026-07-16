@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vips725/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/vips725/LEETCODE/tree/master/0502-ipo) |
+| [0525-contiguous-array](https://github.com/vips725/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vips725/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vips725/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/vips725/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/vips725/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vips725/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/vips725/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vips725/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vips725/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
