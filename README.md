@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0503-next-greater-element-ii](https://github.com/vips725/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/vips725/LEETCODE/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vips725/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vips725/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vips725/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interviews
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vips725/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vips725/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vips725/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0242-valid-anagram](https://github.com/vips725/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/vips725/LEETCODE/tree/master/0502-ipo) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vips725/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Bucket Sort
