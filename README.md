@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews
 | ------- |
 | [0001-two-sum](https://github.com/vips725/LEETCODE/tree/master/0001-two-sum) |
 | [0057-insert-interval](https://github.com/vips725/LEETCODE/tree/master/0057-insert-interval) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vips725/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vips725/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/vips725/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vips725/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
