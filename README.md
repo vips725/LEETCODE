@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0057-insert-interval](https://github.com/vips725/LEETCODE/tree/master/0057-insert-interval) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vips725/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vips725/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0275-h-index-ii](https://github.com/vips725/LEETCODE/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/vips725/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/vips725/LEETCODE/tree/master/0502-ipo) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vips725/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0275-h-index-ii](https://github.com/vips725/LEETCODE/tree/master/0275-h-index-ii) |
 | [0875-koko-eating-bananas](https://github.com/vips725/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
