@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews
 | ------- |
 | [0001-two-sum](https://github.com/vips725/LEETCODE/tree/master/0001-two-sum) |
 | [0057-insert-interval](https://github.com/vips725/LEETCODE/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/vips725/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vips725/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vips725/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0275-h-index-ii](https://github.com/vips725/LEETCODE/tree/master/0275-h-index-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vips725/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vips725/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/vips725/LEETCODE/tree/master/0275-h-index-ii) |
 | [0875-koko-eating-bananas](https://github.com/vips725/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vips725/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
