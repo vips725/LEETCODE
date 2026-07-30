@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0275-h-index-ii](https://github.com/vips725/LEETCODE/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/vips725/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vips725/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/vips725/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/vips725/LEETCODE/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/vips725/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0001-two-sum](https://github.com/vips725/LEETCODE/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/vips725/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vips725/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/vips725/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/vips725/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/vips725/LEETCODE/tree/master/0525-contiguous-array) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vips725/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/vips725/LEETCODE/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/vips725/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vips725/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/vips725/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interviews
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vips725/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/vips725/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/vips725/LEETCODE/tree/master/0986-interval-list-intersections) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0215-kth-largest-element-in-an-array](https://github.com/vips725/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vips725/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vips725/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/vips725/LEETCODE/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vips725/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
