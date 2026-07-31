@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vips725/LEETCODE/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/vips725/LEETCODE/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vips725/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/vips725/LEETCODE/tree/master/0844-backspace-string-compare) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0242-valid-anagram](https://github.com/vips725/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vips725/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/vips725/LEETCODE/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vips725/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/vips725/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/vips725/LEETCODE/tree/master/0525-contiguous-array) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interviews
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/vips725/LEETCODE/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
