@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1929-concatenation-of-array](https://github.com/vips725/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vips725/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vips725/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0350-intersection-of-two-arrays-ii](https://github.com/vips725/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/vips725/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0844-backspace-string-compare](https://github.com/vips725/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/vips725/LEETCODE/tree/master/0986-interval-list-intersections) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
