@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1929-concatenation-of-array](https://github.com/vips725/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vips725/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vips725/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vips725/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vips725/LEETCODE/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vips725/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vips725/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vips725/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vips725/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interviews
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vips725/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vips725/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sweep Line
 |  |
@@ -264,4 +267,12 @@ A collection of LeetCode questions to ace the coding interviews
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vips725/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vips725/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vips725/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
