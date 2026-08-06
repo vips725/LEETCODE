@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vips725/LEETCODE/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/vips725/LEETCODE/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/vips725/LEETCODE/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/vips725/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vips725/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interviews
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vips725/LEETCODE/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/vips725/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/vips725/LEETCODE/tree/master/0877-stone-game) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interviews
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vips725/LEETCODE/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vips725/LEETCODE/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/vips725/LEETCODE/tree/master/0502-ipo) |
 | [0860-lemonade-change](https://github.com/vips725/LEETCODE/tree/master/0860-lemonade-change) |
