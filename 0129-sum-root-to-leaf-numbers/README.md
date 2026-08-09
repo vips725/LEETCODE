@@ -8,7 +8,7 @@
 
 <p>Return <em>the total sum of all root-to-leaf numbers</em>. Test cases are generated so that the answer will fit in a <strong>32-bit</strong> integer.</p>
 
-<p>A <strong>leaf</strong> node is a node with no children.</p>
+<p>A <strong>leaf</strong>node is a node with no children.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
