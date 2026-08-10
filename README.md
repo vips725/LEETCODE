@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vips725/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/vips725/LEETCODE/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vips725/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vips725/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vips725/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vips725/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vips725/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vips725/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vips725/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
