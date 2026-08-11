@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/vips725/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vips725/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/vips725/LEETCODE/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vips725/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -147,12 +148,14 @@ A collection of LeetCode questions to ace the coding interviews
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/vips725/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vips725/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vips725/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/vips725/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vips725/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/vips725/LEETCODE/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vips725/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interviews
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/vips725/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/vips725/LEETCODE/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vips725/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vips725/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
