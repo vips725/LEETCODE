@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0095-unique-binary-search-trees-ii](https://github.com/vips725/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/vips725/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/vips725/LEETCODE/tree/master/0877-stone-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vips725/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vips725/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vips725/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/vips725/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
@@ -183,11 +185,13 @@ A collection of LeetCode questions to ace the coding interviews
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vips725/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vips725/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vips725/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vips725/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vips725/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vips725/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 ## Two Pointers
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interviews
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vips725/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
