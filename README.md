@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vips725/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/vips725/LEETCODE/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/vips725/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vips725/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1563-stone-game-v](https://github.com/vips725/LEETCODE/tree/master/1563-stone-game-v) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0200-number-of-islands](https://github.com/vips725/LEETCODE/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vips725/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/vips725/LEETCODE/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vips725/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vips725/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0036-valid-sudoku](https://github.com/vips725/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/vips725/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/vips725/LEETCODE/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/vips725/LEETCODE/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
