@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vips725/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/vips725/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interviews
 | ------- |
 | [0844-backspace-string-compare](https://github.com/vips725/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/vips725/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/vips725/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
