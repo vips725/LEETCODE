@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interviews
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vips725/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vips725/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vips725/LEETCODE/tree/master/0877-stone-game) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interviews
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vips725/LEETCODE/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/vips725/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vips725/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/vips725/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -351,4 +353,8 @@ A collection of LeetCode questions to ace the coding interviews
 |  |
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vips725/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
