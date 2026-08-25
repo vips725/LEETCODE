@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vips725/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vips725/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vips725/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vips725/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
