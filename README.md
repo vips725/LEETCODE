@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vips725/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/vips725/LEETCODE/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vips725/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vips725/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vips725/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vips725/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interviews
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/vips725/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vips725/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search
 |  |
 | ------- |
