@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vips725/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vips725/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vips725/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vips725/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vips725/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vips725/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vips725/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vips725/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vips725/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/vips725/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Bucket Sort
 |  |
