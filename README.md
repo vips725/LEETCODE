@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vips725/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vips725/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vips725/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vips725/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vips725/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vips725/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vips725/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vips725/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vips725/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0643-maximum-average-subarray-i](https://github.com/vips725/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vips725/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vips725/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
