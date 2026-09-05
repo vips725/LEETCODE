@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/vips725/LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0038-count-and-say](https://github.com/vips725/LEETCODE/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/vips725/LEETCODE/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vips725/LEETCODE/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/vips725/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
