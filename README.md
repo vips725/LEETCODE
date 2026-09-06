@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vips725/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/vips725/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/vips725/LEETCODE/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/vips725/LEETCODE/tree/master/0242-valid-anagram) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vips725/LEETCODE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vips725/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/vips725/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/vips725/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vips725/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/vips725/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/vips725/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
