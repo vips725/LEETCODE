@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0628-maximum-product-of-three-numbers](https://github.com/vips725/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vips725/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0835-image-overlap](https://github.com/vips725/LEETCODE/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/vips725/LEETCODE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/vips725/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vips725/LEETCODE/tree/master/0877-stone-game) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0036-valid-sudoku](https://github.com/vips725/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/vips725/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/vips725/LEETCODE/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/vips725/LEETCODE/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/vips725/LEETCODE/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vips725/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
