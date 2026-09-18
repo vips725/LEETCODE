@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/vips725/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vips725/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vips725/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/vips725/LEETCODE/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vips725/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vips725/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vips725/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vips725/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vips725/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vips725/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vips725/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vips725/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vips725/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vips725/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/vips725/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Bucket Sort
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0455-assign-cookies](https://github.com/vips725/LEETCODE/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/vips725/LEETCODE/tree/master/0502-ipo) |
 | [0860-lemonade-change](https://github.com/vips725/LEETCODE/tree/master/0860-lemonade-change) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vips725/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/vips725/LEETCODE/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vips725/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vips725/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
