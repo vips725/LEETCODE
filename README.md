@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vips725/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1563-stone-game-v](https://github.com/vips725/LEETCODE/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vips725/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/vips725/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vips725/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vips725/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0974-subarray-sums-divisible-by-k](https://github.com/vips725/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vips725/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vips725/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vips725/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vips725/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vips725/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0904-fruit-into-baskets](https://github.com/vips725/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vips725/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vips725/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vips725/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vips725/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vips725/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [1004-max-consecutive-ones-iii](https://github.com/vips725/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vips725/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vips725/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vips725/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [1004-max-consecutive-ones-iii](https://github.com/vips725/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vips725/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vips725/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Number Theory
 |  |
 | ------- |
