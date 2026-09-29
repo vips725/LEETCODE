@@ -449,4 +449,8 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vips725/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/vips725/LEETCODE/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
