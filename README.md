@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vips725/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/vips725/LEETCODE/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vips725/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/vips725/LEETCODE/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vips725/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3524-find-x-value-of-array-i](https://github.com/vips725/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vips725/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
