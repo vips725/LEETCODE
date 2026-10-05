@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0424-longest-repeating-character-replacement](https://github.com/vips725/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/vips725/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/vips725/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vips725/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vips725/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vips725/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0496-next-greater-element-i](https://github.com/vips725/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vips725/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/vips725/LEETCODE/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/vips725/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vips725/LEETCODE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vips725/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vips725/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/vips725/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vips725/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vips725/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
