@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0986-interval-list-intersections](https://github.com/vips725/LEETCODE/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/vips725/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vips725/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vips725/LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vips725/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vips725/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [0300-longest-increasing-subsequence](https://github.com/vips725/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/vips725/LEETCODE/tree/master/0877-stone-game) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vips725/LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vips725/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/vips725/LEETCODE/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vips725/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
