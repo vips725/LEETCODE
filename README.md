@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/vips725/LEETCODE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vips725/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/vips725/LEETCODE/tree/master/2540-minimum-common-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vips725/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vips725/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vips725/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -470,4 +471,8 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prip]
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/vips725/LEETCODE/tree/master/0184-department-highest-salary) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vips725/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
