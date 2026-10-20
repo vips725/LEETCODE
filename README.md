@@ -3,7 +3,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 # LeetCode Topics
 ## Array
 |  |
-| ------- |
+| -------m
 | [0001-two-sum](https://github.com/vips725/LEETCODE/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/vips725/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/vips725/LEETCODE/tree/master/0039-combination-sum) |
