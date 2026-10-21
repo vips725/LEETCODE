@@ -3,7 +3,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 # LeetCode Topics
 ## Array
 |  |
-| -------m
+| ------- |
 | [0001-two-sum](https://github.com/vips725/LEETCODE/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/vips725/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/vips725/LEETCODE/tree/master/0039-combination-sum) |
@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vips725/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vips725/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/vips725/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/vips725/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
 | ------- |
