@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0200-number-of-islands](https://github.com/vips725/LEETCODE/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vips725/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/vips725/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vips725/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vips725/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | ------- |
 | [0200-number-of-islands](https://github.com/vips725/LEETCODE/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/vips725/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vips725/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vips725/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vips725/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vips725/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/vips725/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vips725/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vips725/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vips725/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vips725/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -496,4 +500,12 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vips725/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
