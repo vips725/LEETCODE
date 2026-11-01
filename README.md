@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0055-jump-game](https://github.com/vips725/LEETCODE/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/vips725/LEETCODE/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/vips725/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/vips725/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vips725/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/vips725/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vips725/LEETCODE/tree/master/0200-number-of-islands) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vips725/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/vips725/LEETCODE/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/vips725/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vips725/LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vips725/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vips725/LEETCODE/tree/master/0210-course-schedule-ii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vips725/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vips725/LEETCODE/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/vips725/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | ------- |
 | [0036-valid-sudoku](https://github.com/vips725/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/vips725/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/vips725/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vips725/LEETCODE/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/vips725/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/vips725/LEETCODE/tree/master/0835-image-overlap) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0099-recover-binary-search-tree](https://github.com/vips725/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/vips725/LEETCODE/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vips725/LEETCODE/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/vips725/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vips725/LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vips725/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vips725/LEETCODE/tree/master/0210-course-schedule-ii) |
