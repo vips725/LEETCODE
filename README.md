@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0643-maximum-average-subarray-i](https://github.com/vips725/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/vips725/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/vips725/LEETCODE/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/vips725/LEETCODE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/vips725/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0275-h-index-ii](https://github.com/vips725/LEETCODE/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/vips725/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vips725/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/vips725/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/vips725/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vips725/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vips725/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/vips725/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/vips725/LEETCODE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vips725/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0130-surrounded-regions](https://github.com/vips725/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vips725/LEETCODE/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/vips725/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vips725/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vips725/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0502-ipo](https://github.com/vips725/LEETCODE/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/vips725/LEETCODE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vips725/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vips725/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -204,6 +209,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0130-surrounded-regions](https://github.com/vips725/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vips725/LEETCODE/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/vips725/LEETCODE/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/vips725/LEETCODE/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/vips725/LEETCODE/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -302,6 +308,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vips725/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/vips725/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/vips725/LEETCODE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vips725/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -540,4 +547,9 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vips725/LEETCODE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
