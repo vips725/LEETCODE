@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0743-network-delay-time](https://github.com/vips725/LEETCODE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vips725/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/vips725/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vips725/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vips725/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/vips725/LEETCODE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vips725/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vips725/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vips725/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vips725/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/vips725/LEETCODE/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/vips725/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vips725/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/vips725/LEETCODE/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vips725/LEETCODE/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0743-network-delay-time](https://github.com/vips725/LEETCODE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vips725/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vips725/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vips725/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 | [0210-course-schedule-ii](https://github.com/vips725/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/vips725/LEETCODE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vips725/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vips725/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vips725/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vips725/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -543,6 +548,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vips725/LEETCODE/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vips725/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
