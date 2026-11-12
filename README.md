@@ -1,7 +1,7 @@
 A collection of LeetCode questions to ace the coding interviews[Amazon prep]
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Array
+## Arrays
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vips725/LEETCODE/tree/master/0001-two-sum) |
