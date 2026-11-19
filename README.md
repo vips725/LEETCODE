@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interviews[Amazon prep]
+A collection of LeetCode questions to ace the coding interviews[Amazon, job prep]
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Arrays
