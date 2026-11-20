@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 | [0347-top-k-frequent-elements](https://github.com/vips725/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vips725/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vips725/LEETCODE/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/vips725/LEETCODE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/vips725/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/vips725/LEETCODE/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/vips725/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/vips725/LEETCODE/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/vips725/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0494-target-sum](https://github.com/vips725/LEETCODE/tree/master/0494-target-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vips725/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/vips725/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/vips725/LEETCODE/tree/master/0877-stone-game) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 | ------- |
 | [0039-combination-sum](https://github.com/vips725/LEETCODE/tree/master/0039-combination-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vips725/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0494-target-sum](https://github.com/vips725/LEETCODE/tree/master/0494-target-sum) |
 ## DP on Trees
 |  |
 | ------- |
@@ -561,4 +564,12 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/vips725/LEETCODE/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/vips725/LEETCODE/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
