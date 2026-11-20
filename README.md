@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vips725/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vips725/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vips725/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vips725/LEETCODE/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/vips725/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vips725/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vips725/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vips725/LEETCODE/tree/master/0096-unique-binary-search-trees) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vips725/LEETCODE/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vips725/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Geometry
 |  |
