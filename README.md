@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/vips725/LEETCODE/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
+| [0825-friends-of-appropriate-ages](https://github.com/vips725/LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [0835-image-overlap](https://github.com/vips725/LEETCODE/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/vips725/LEETCODE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/vips725/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 | [0300-longest-increasing-subsequence](https://github.com/vips725/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vips725/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0778-swim-in-rising-water](https://github.com/vips725/LEETCODE/tree/master/0778-swim-in-rising-water) |
+| [0825-friends-of-appropriate-ages](https://github.com/vips725/LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/vips725/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/vips725/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vips725/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 | [0350-intersection-of-two-arrays-ii](https://github.com/vips725/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/vips725/LEETCODE/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vips725/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0825-friends-of-appropriate-ages](https://github.com/vips725/LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [0844-backspace-string-compare](https://github.com/vips725/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/vips725/LEETCODE/tree/master/0986-interval-list-intersections) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 | [0502-ipo](https://github.com/vips725/LEETCODE/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vips725/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/vips725/LEETCODE/tree/master/0692-top-k-frequent-words) |
+| [0825-friends-of-appropriate-ages](https://github.com/vips725/LEETCODE/tree/master/0825-friends-of-appropriate-ages) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vips725/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/vips725/LEETCODE/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vips725/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
