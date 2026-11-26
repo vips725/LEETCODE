@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vips725/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/vips725/LEETCODE/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vips725/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/vips725/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/vips725/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vips725/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vips725/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 | [0844-backspace-string-compare](https://github.com/vips725/LEETCODE/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/vips725/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vips725/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/vips725/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/vips725/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
