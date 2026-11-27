@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 | [3718-smallest-missing-multiple-of-k](https://github.com/vips725/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vips725/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vips725/LEETCODE/tree/master/3731-find-missing-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vips725/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vips725/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vips725/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/vips725/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vips725/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Tree
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interviews[Amazon, job prep
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vips725/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vips725/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vips725/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vips725/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Linked List
 |  |
 | ------- |
